@@ -1,6 +1,7 @@
 #import "GamePlayScene.h"
 #import "Character.h"
 #import "Obstacle.h"
+#include <CCTouch.h>
 
 @implementation GamePlayScene
 

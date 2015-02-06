@@ -1,7 +1,7 @@
 #import "GamePlayScene.h"
 #import "Character.h"
 #import "Obstacle.h"
-#include "CCTouch.h"
+#import "cocos2d.h"
 
 @implementation GamePlayScene
 
